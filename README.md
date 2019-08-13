@@ -30,9 +30,9 @@ git config user.email $USER_EMAIL
 echo "ALTERADO PARA: "$USER_NAME "("$USER_EMAIL")"
 ```
 
-|           |                                                  |
-| --------- | ------------------------------------------------ |
-| site      | www.lucassdr.com.br                              |
-| linkedin  | https://www.linkedin.com/in/lucassdr/            |
-| email     | lucassdr@outlook.com.br                          |
-| instagram | [@lucassdr](https://www.instagram.com/lucassdr/) |
+|           |                                                      |
+| --------- | ---------------------------------------------------- |
+| site      | [lucassdr.com.br](https://lucassdr.com.br)           |
+| linkedin  | [IN_lucassdr](https://www.linkedin.com/in/lucassdr/) |
+| email     | [@lucassdr](lucassdr@outlook.com.br)                 |
+| instagram | [@lucassdr](https://www.instagram.com/lucassdr/)     |
