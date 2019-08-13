@@ -4,4 +4,4 @@ Múltiplas contas git no MacOS
 
 ##### Autor: Lucas Sodré
 
-###### Versão: 0.0.2
+###### Versão: 0.0.3
